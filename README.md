@@ -37,7 +37,7 @@ The primary focus is to understand why rides get cancelled and how data-driven s
 - How does ride distance vary by day?
 
 - Distance Analysis Dashboard <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/vehical%20type.jpg">Vehicle & Distance Analysis</a>
-- Vehicle Type  <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/vehical%20type.jpg">Vehicle Type</a>        
+- Vehicle Type Dashboard <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/vehical%20type.jpg">Vehicle Type Dashboard</a>        
 
 ---
 
