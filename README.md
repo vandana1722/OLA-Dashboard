@@ -4,6 +4,9 @@
 This project analyzes OLA ride booking data to uncover **ride cancellation trends**, **customer behavior**, and **revenue patterns**.  
 The primary focus is to understand why rides get cancelled and how data-driven strategies can improve ride completion and customer satisfaction.
 
+## 📂 Dataset
+- <a href= "https://github.com/vandana1722/OLA-Dashboard/blob/cfea2cad1463b9bdc56e716d57ca4fe8d7080dc9/Bookings-100000-Rows.xlsx">OLA Ride Booking Dataset</a>
+
 ---
 
 ## 🎯 Business Problem
