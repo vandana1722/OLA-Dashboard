@@ -69,7 +69,7 @@ The primary focus is to understand why rides get cancelled and how data-driven s
 ---
 
 ## 🔄 Data Processing Workflow
-1. Collected ride booking data from multiple sources  
+1. Collected ride booking data 
 2. Cleaned missing values, duplicates, and inconsistent entries  
 3. Standardized booking status, cancellation reasons, and payment methods  
 4. Created calculated columns for revenue, distance, and ratings  
