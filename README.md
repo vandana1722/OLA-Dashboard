@@ -17,7 +17,7 @@ The primary focus is to understand why rides get cancelled and how data-driven s
 
 ---
 
-## 📊 KPI Questions (Business-Focused)
+## 📊 KPI Questions
 
 ### 🚦 Ride & Operational Performance
 - What percentage of total rides were completed successfully?
@@ -49,6 +49,9 @@ The primary focus is to understand why rides get cancelled and how data-driven s
 - Which payment method generates the highest revenue?
 - How many rides were paid using UPI?
 - Which customers contribute the highest total booking value?
+
+- Revenue Dashboar
+ <a href="https://github.com/vandana1722/OLADashboard/commit/cfea2cad1463b9bdc56e716d57ca4fe8d7080dc9#diff38610af6cbdfdfa7f5e979ee94c2079ca67d7e47bc9896c7713c9ec82a189518">Revenue</a>
 
 ---
 
