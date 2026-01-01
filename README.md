@@ -27,12 +27,17 @@ The primary focus is to understand why rides get cancelled and how data-driven s
 - During which time periods do cancellations peak?
 - How does ride volume change over time (daily / monthly)?
 
+- Overall Dashboard <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/overall.jpg">Overall</a>
+
 ---
 
 ### 🚗 Vehicle & Distance Analysis
 - What is the average ride distance for each vehicle type?
 - Which vehicle types cover the highest total ride distance?
 - How does ride distance vary by day?
+
+- Distance Analysis Dashboard <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/vehical%20type.jpg">Vehicle & Distance Analysis</a>
+- Vehicle Type  <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/vehical%20type.jpg">Vehicle Type</a>        
 
 ---
 
@@ -42,6 +47,8 @@ The primary focus is to understand why rides get cancelled and how data-driven s
 - What are the maximum and minimum driver ratings for Prime Sedan rides?
 - How do customer ratings compare with driver ratings?
 
+- Rating Dashboard <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/Rating.jpg">Rating</a>
+
 ---
 
 ### 💰 Revenue & Payment Insights
@@ -50,7 +57,7 @@ The primary focus is to understand why rides get cancelled and how data-driven s
 - How many rides were paid using UPI?
 - Which customers contribute the highest total booking value?
 
-- Revenue Dashboar <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/Revenue.jpg">Revenue</a>
+- Revenue Dashboard <a href="https://github.com/vandana1722/OLA-Dashboard/blob/main/Revenue.jpg">Revenue</a>
 
 ---
 
